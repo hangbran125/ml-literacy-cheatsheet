@@ -2,7 +2,7 @@
 
 A one-stop reference for machine-learning fundamentals, written from a **security
 practitioner's angle** — every algorithm and metric is tied back to what it means when
-the positive class is "attack." Built as the Week 1 foundation for moving into AI/LLM
+the positive class is "attack." Built as the foundation for moving into AI/LLM
 security.
 
 ---
@@ -43,5 +43,6 @@ metrics for imbalanced detection problems · clear technical writing / reference
 
 ---
 
-<sub>Week 1 of a structured AI-security learning program (ML foundations → LLM
-security → red teaming). Part of a portfolio documenting that progression.</sub>
+<sub>ML foundations for a public portfolio in defensive AI security: AI security engineering first,
+AI threat investigation second, and AI red teaming as a testing skill. All projects:
+<a href="https://github.com/hangbran125">github.com/hangbran125</a>.</sub>
