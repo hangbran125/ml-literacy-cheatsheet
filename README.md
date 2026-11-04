@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29942430/README.md)
 # ML Literacy Cheat Sheet
 
 A one-stop reference for machine-learning fundamentals, written from a **security
